@@ -1,0 +1,13 @@
+{
+  "build": {
+    "env": {
+      "FIREBASE_API_KEY": "@firebase_api_key_raices",
+      "FIREBASE_AUTH_DOMAIN": "@firebase_auth_domain_raices",
+      "FIREBASE_DATABASE_URL": "@firebase_database_url_raices",
+      "FIREBASE_PROJECT_ID": "@firebase_project_id_raices",
+      "FIREBASE_STORAGE_BUCKET": "@firebase_storage_bucket_raices",
+      "FIREBASE_MESSAGING_SENDER_ID": "@firebase_messaging_sender_id_raices",
+      "FIREBASE_APP_ID": "@firebase_app_id_raices"
+    }
+  }
+}
