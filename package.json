@@ -14,7 +14,7 @@
     "dotenv-webpack": "^1.7.0",
     "firebase": "^7.14.2",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "next": "^9.2.0",
     "next-images": "^1.4.0",
     "react": "^16.12.0",
